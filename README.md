@@ -6,3 +6,6 @@
 - The notebook where I wrote the neural network can be found in "Ethan's model".
 
 - There is also some code for including the model into a flask app.
+
+
+- The repository for the team can be found [here on Github](https://github.com/AirBnB-dream-team/DS)
